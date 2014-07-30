@@ -1,9 +1,7 @@
 # macinit
 
-- install brew
-- install brew-cask
 - write Brewfile
 
-`brew bundle`
+Just run `./macinit.sh`
 
 **Everyone happy**
