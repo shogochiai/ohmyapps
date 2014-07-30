@@ -1,0 +1,1 @@
+cask install bettertouchtool || true
