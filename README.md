@@ -1,9 +1,9 @@
 # macinit
 
-install brew
-install brew-cask
-write Brewfile
+- install brew
+- install brew-cask
+- write Brewfile
 
 `brew bundle`
 
-### Everyone happy
+**Everyone happy**
