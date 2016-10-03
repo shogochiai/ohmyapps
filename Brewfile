@@ -27,6 +27,9 @@ cask install atom || true
 cask install wunderlist || true
 cask install polymail || true
 cask install line || true
+cask install hipchat || true
+cask install phpstorm || true
+cask install boostnote || true
 
 
 
