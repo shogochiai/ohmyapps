@@ -30,3 +30,5 @@ brew cask install line || true
 brew cask install hipchat || true
 brew cask install phpstorm || true
 brew cask install boostnote || true
+brew cask install Messanger || true
+brew cask install sequel-pro || true
